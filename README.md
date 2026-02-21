@@ -244,7 +244,7 @@ Designed for **real-time sync and distributed scalability.**
 
 ---
 
-# 🧠 Architectural Principles
+## 🧠 Architectural Principles
 
 - **Stateless compute with persistent session memory**
 - **Horizontal scalability via Cloud Run**
@@ -254,11 +254,9 @@ Designed for **real-time sync and distributed scalability.**
 
 ---
 
-# 📊 Architecture Diagram
+## 📊 Architecture Diagram
 
-<img width="1536" height="1024" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/e051e4a3-b801-4288-be85-7741c12d1a1e" />
-
----
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5ae89d0a-92db-40f4-b7dd-db8a6367113d" />
 
 ## 🔥 Core Takeaway
 
