@@ -256,7 +256,7 @@ Designed for **real-time sync and distributed scalability.**
 
 ## 📊 Architecture Diagram
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5ae89d0a-92db-40f4-b7dd-db8a6367113d" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/77de6c43-14b2-48b2-a65a-f8dfab5ebdc3" />
 
 ## 🔥 Core Takeaway
 
