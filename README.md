@@ -37,46 +37,46 @@ Built for the Gemini Live Agent Challenge.
 
 # Executive Summary
 
-CollectiveMind Live is a real-time multimodal AI Live Agent that transforms human group discussion into structured, bias-aware, and future-simulated decision intelligence.
+**CollectiveMind Live is a real-time multimodal AI Live Agent that transforms human group discussion into structured, bias-aware, and future-simulated decision intelligence.**
 
 Traditional AI systems operate in turn-based text exchanges. They summarize. They respond. They wait.
 
-CollectiveMind Live listens continuously via live audio streams, understands multi-speaker dynamics, detects dominance imbalance and cognitive bias in real time, maps structured argument graphs, and simulates multiple future outcomes before decisions are finalized.
+**CollectiveMind Live listens continuously via live audio streams, understands multi-speaker dynamics, detects dominance imbalance and cognitive bias in real time, maps structured argument graphs, and simulates multiple future outcomes before decisions are finalized.**
 
-Built on Gemini Live API and deployed on Google Cloud, the system functions as an interruptible, context-aware cognitive layer that augments—not replaces—human reasoning.
+**Built on Gemini Live API and deployed on Google Cloud, the system functions as an interruptible, context-aware cognitive layer that augments—not replaces—human reasoning.**
 
-Instead of producing summaries after meetings end, CollectiveMind Live reshapes decisions while they are still being formed.
+Instead of producing summaries after meetings end, **CollectiveMind Live reshapes decisions while they are still being formed.**
 
-This is not a chatbot.
+**This is not a chatbot.**
 
-It is live collective intelligence infrastructure.
+**It is live collective intelligence infrastructure.**
 
 ---
 
 # Problem at Global Scale
 
-Every day, billions of dollars in capital allocation, public policy, crisis response, and strategic direction are decided inside meetings.
+**Every day, billions of dollars in capital allocation, public policy, crisis response, and strategic direction are decided inside meetings.**
 
 Yet the majority of group decisions are cognitively flawed.
 
 Research in behavioral economics and organizational psychology shows that collective reasoning frequently collapses under:
 
-- Groupthink and premature consensus  
-- Confirmation bias and selective evidence  
-- Dominant speaker imbalance  
-- Emotional escalation under pressure  
-- Information overload without structure  
-- Absence of long-term consequence modeling  
+- **Groupthink and premature consensus**  
+- **Confirmation bias and selective evidence**  
+- **Dominant speaker imbalance**  
+- **Emotional escalation under pressure**  
+- **Information overload without structure**  
+- **Absence of long-term consequence modeling**  
 
-Meetings are optimized for participation — not for intelligence.
+**Meetings are optimized for participation — not for intelligence.**
 
 Critical decisions are often shaped by confidence, hierarchy, or momentum rather than structured reasoning and probabilistic foresight.
 
-In boardrooms, startups, governments, and crisis rooms, the cost of flawed group cognition scales exponentially.
+In boardrooms, startups, governments, and crisis rooms, **the cost of flawed group cognition scales exponentially.**
 
-The problem is not a lack of discussion.
+**The problem is not a lack of discussion.**
 
-The problem is the absence of real-time cognitive infrastructure to guide it.
+**The problem is the absence of real-time cognitive infrastructure to guide it.**
 
 ---
 
@@ -84,255 +84,301 @@ The problem is the absence of real-time cognitive infrastructure to guide it.
 
 Most AI assistants today are optimized for individual, turn-based interaction.
 
-They operate within a simple paradigm:
+They operate within a simple paradigm:  
 User inputs → Model responds → Conversation pauses.
 
-This architecture fundamentally breaks down in live, multi-speaker environments.
+**This architecture fundamentally breaks down in live, multi-speaker environments.**
 
 Current systems:
 
-- Process one speaker at a time without real-time role differentiation  
-- Lack awareness of conversational power dynamics  
-- Cannot detect dominance imbalance or groupthink formation  
-- Treat reasoning as text summarization rather than structured argument mapping  
-- React after ideas are formed instead of intervening during formation  
-- Provide insights post-meeting instead of shaping outcomes in real time  
+- **Process one speaker at a time without real-time role differentiation**  
+- **Lack awareness of conversational power dynamics**  
+- **Cannot detect dominance imbalance or groupthink formation**  
+- **Treat reasoning as text summarization rather than structured argument mapping**  
+- **React after ideas are formed instead of intervening during formation**  
+- **Provide insights post-meeting instead of shaping outcomes in real time**  
 
 They are built for answering questions.
 
-They are not built for augmenting collective cognition.
+**They are not built for augmenting collective cognition.**
 
 Even advanced large language models struggle in group settings because they lack:
 
-- Continuous streaming context management  
-- Multimodal live input handling  
-- Interruptible reasoning loops  
-- Structured decision modeling frameworks  
+- **Continuous streaming context management**  
+- **Multimodal live input handling**  
+- **Interruptible reasoning loops**  
+- **Structured decision modeling frameworks**  
 
 The result is assistance that is passive, delayed, and socially blind.
 
-In environments where decisions evolve second-by-second, reactive AI is insufficient.
+In environments where decisions evolve second-by-second, **reactive AI is insufficient.**
 
-Group intelligence requires an agent that can listen continuously, reason structurally, and intervene contextually.
+**Group intelligence requires an agent that can listen continuously, reason structurally, and intervene contextually.**
 
-That is the architectural gap CollectiveMind Live addresses.
-
----
-
-# Our Breakthrough
-
-CollectiveMind Live introduces a new interaction paradigm: real-time cognitive augmentation for groups.
-
-Instead of responding to prompts, the system operates as a continuously listening, context-aware intelligence layer embedded directly inside live discussions.
-
-At its core is a Collective Intelligence Engine that:
-
-- Ingests live multi-speaker audio streams via WebRTC  
-- Streams multimodal reasoning using Gemini Live API  
-- Differentiates speaker roles and conversational influence  
-- Constructs dynamic argument graphs in real time  
-- Detects emerging cognitive bias and dominance imbalance  
-- Runs structured foresight simulations before decisions finalize  
-- Surfaces contextual insights through a live decision dashboard  
-
-Unlike traditional AI systems that summarize conversations after they end, CollectiveMind Live intervenes while reasoning is still unfolding.
-
-The breakthrough is architectural:
-
-We shift AI from a reactive, turn-based assistant  
-to an interruptible, streaming, multimodal reasoning partner.
-
-This is not chat.
-
-This is live collective cognition infrastructure deployed on Google Cloud.
+**That is the architectural gap CollectiveMind Live addresses.**
 
 ---
 
-# System Architecture
+# 🚀 Our Breakthrough
 
-CollectiveMind Live is built as a cloud-native, event-driven, real-time streaming architecture designed for low-latency multimodal reasoning.
+**CollectiveMind Live introduces a new interaction paradigm: _real-time cognitive augmentation for groups._**
 
-The system is composed of six primary layers:
+Instead of responding to prompts, the system operates as a **continuously listening, context-aware intelligence layer embedded directly inside live discussions.**
 
-### 1. Client Interaction Layer (Browser)
+At its core is a **Collective Intelligence Engine** that:
 
-- React-based frontend
-- WebRTC audio capture for real-time streaming
-- Live dashboard rendering structured insights
-- Interruptible UI feedback system
+- **Ingests live multi-speaker audio streams via WebRTC**
+- **Streams multimodal reasoning using Gemini Live API**
+- **Differentiates speaker roles and conversational influence**
+- **Constructs dynamic argument graphs in real time**
+- **Detects emerging cognitive bias and dominance imbalance**
+- **Runs structured foresight simulations before decisions finalize**
+- **Surfaces contextual insights through a live decision dashboard**
 
-The browser continuously streams audio while simultaneously receiving structured intelligence outputs.
-
----
-
-### 2. Real-Time Streaming Gateway
-
-Audio packets are securely transmitted to the backend using WebRTC streaming protocols, ensuring:
-
-- Low latency
-- Multi-speaker continuity
-- Minimal packet loss
-- Encrypted transmission
+Unlike traditional AI systems that summarize conversations after they end,  
+**CollectiveMind Live intervenes while reasoning is still unfolding.**
 
 ---
 
-### 3. Backend Orchestration Layer (Google Cloud Run)
+## 🔬 The Architectural Breakthrough
 
-The backend is containerized and deployed on Cloud Run to provide:
+We shift AI from:
 
-- Auto-scaling compute
-- Stateless request handling
-- Concurrent session management
-- Fault-tolerant execution
+> **A reactive, turn-based assistant**  
+
+to  
+
+> **An interruptible, streaming, multimodal reasoning partner**
+
+This is **not chat.**  
+This is **live collective cognition infrastructure deployed on Google Cloud.**
+
+---
+
+# 🏗 System Architecture
+
+**CollectiveMind Live is built as a cloud-native, event-driven, real-time streaming architecture designed for low-latency multimodal reasoning.**
+
+The system is composed of **six primary layers:**
+
+---
+
+## 1️⃣ Client Interaction Layer (Browser)
+
+- React-based frontend  
+- **WebRTC audio capture for real-time streaming**  
+- **Live dashboard rendering structured insights**  
+- Interruptible UI feedback system  
+
+The browser **continuously streams audio while simultaneously receiving structured intelligence outputs.**
+
+---
+
+## 2️⃣ Real-Time Streaming Gateway
+
+Audio packets are securely transmitted using WebRTC streaming protocols, ensuring:
+
+- **Low latency**
+- **Multi-speaker continuity**
+- **Minimal packet loss**
+- **Encrypted transmission**
+
+---
+
+## 3️⃣ Backend Orchestration Layer (Google Cloud Run)
+
+The backend is containerized and deployed on **Cloud Run** to provide:
+
+- **Auto-scaling compute**
+- **Stateless request handling**
+- **Concurrent session management**
+- **Fault-tolerant execution**
 
 This layer performs:
 
-- Audio preprocessing
-- Session state tracking
-- Context window management
-- Routing to Gemini Live API
+- Audio preprocessing  
+- Session state tracking  
+- **Context window management**
+- Routing to Gemini Live API  
 
 ---
 
-### 4. Multimodal Reasoning Layer (Gemini Live via Vertex AI)
+## 4️⃣ Multimodal Reasoning Layer (Gemini Live via Vertex AI)
 
-The system streams structured context to Gemini Live API hosted on Vertex AI.
+The system streams structured context to **Gemini Live API hosted on Vertex AI.**
 
 Capabilities leveraged:
 
-- Real-time streaming inference
-- Multimodal audio-text reasoning
-- Interruptible response generation
-- Continuous context adaptation
+- **Real-time streaming inference**
+- **Multimodal audio-text reasoning**
+- **Interruptible response generation**
+- **Continuous context adaptation**
 
-This enables the agent to reason as discussion unfolds rather than after completion.
+This enables the agent to **reason as discussion unfolds rather than after completion.**
 
 ---
 
-### 5. Decision Intelligence Engine
+## 5️⃣ Decision Intelligence Engine
 
 A custom logic layer that:
 
-- Constructs dynamic argument graphs
-- Tracks speaker influence metrics
-- Runs bias detection algorithms
-- Triggers foresight simulation workflows
+- **Constructs dynamic argument graphs**
+- **Tracks speaker influence metrics**
+- **Runs bias detection algorithms**
+- **Triggers foresight simulation workflows**
 
-This layer transforms raw conversation into structured decision models.
+This layer transforms **raw conversation into structured decision models.**
 
 ---
 
-### 6. Persistence & State Management (Cloud Firestore)
+## 6️⃣ Persistence & State Management (Cloud Firestore)
 
 Firestore stores:
 
-- Session metadata
-- Argument structures
-- Simulation outputs
-- Bias indicators
+- Session metadata  
+- Argument structures  
+- Simulation outputs  
+- Bias indicators  
 
-Designed for real-time sync and distributed scalability.
+Designed for **real-time sync and distributed scalability.**
 
 ---
 
-## Architectural Principles
+# 🧠 Architectural Principles
 
-- Stateless compute with persistent session memory
-- Horizontal scalability via Cloud Run
-- Streaming-first inference pipeline
+- **Stateless compute with persistent session memory**
+- **Horizontal scalability via Cloud Run**
+- **Streaming-first inference pipeline**
 - Clear separation between reasoning and orchestration
-- Secure IAM-based service communication
-
-## Architecture Diagram
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e051e4a3-b801-4288-be85-7741c12d1a1e" />
+- **Secure IAM-based service communication**
 
 ---
 
-# Live Intelligence Engine
+# 📊 Architecture Diagram
 
-At the core of CollectiveMind Live is a streaming-first reasoning architecture built on Gemini Live API.
-
-Unlike traditional request-response models, the Live Intelligence Engine operates as a continuous inference loop.
-
-## Real-Time Multimodal Streaming
-
-Audio is streamed incrementally to Gemini Live through a low-latency pipeline, enabling:
-
-- Incremental semantic interpretation
-- Context preservation across speaker turns
-- Dynamic reasoning updates without session reset
-- Interruptible response generation mid-stream
-
-The model does not wait for a conversation to end.
-It reasons as the discussion unfolds.
+<img width="1536" height="1024" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/e051e4a3-b801-4288-be85-7741c12d1a1e" />
 
 ---
 
-## Multi-Speaker Context Modeling
+## 🔥 Core Takeaway
 
-The engine maintains structured speaker state:
+**CollectiveMind Live is not built as a chatbot layer.**  
 
-- Speaker identity tracking
-- Contribution frequency analysis
-- Influence weighting metrics
-- Role-based reasoning adjustment
-
-This enables detection of dominance imbalance and conversational skew in real time.
+It is built as a **real-time cognitive operating system for group decision-making.**
 
 ---
 
-## Dynamic Context Window Management
+# 🧠 Live Intelligence Engine
 
-To prevent hallucination and topic drift, the system:
+At the core of **CollectiveMind Live** is a **streaming-first reasoning architecture built on Gemini Live API.**
 
-- Maintains rolling structured summaries
-- Compresses prior discussion into argument nodes
-- Anchors reasoning to verified session context
-- Applies uncertainty tagging when confidence drops
-
-This reduces speculative output and ensures grounded responses.
+Unlike traditional request-response systems, the **Live Intelligence Engine operates as a continuous inference loop**, enabling real-time cognitive augmentation during live discussion.
 
 ---
 
-## Interruptible Insight Generation
+## 🔴 Real-Time Multimodal Streaming
+
+Audio is streamed incrementally to Gemini Live through a **low-latency streaming pipeline**, enabling:
+
+- **Incremental semantic interpretation**
+- **Context preservation across speaker turns**
+- **Dynamic reasoning updates without session reset**
+- **Interruptible response generation mid-stream**
+
+The model does **not wait for a conversation to end.**  
+It **reasons as discussion unfolds.**
+
+This is a fundamental architectural shift from batch AI to **live reasoning systems.**
+
+---
+
+## 👥 Multi-Speaker Context Modeling
+
+The engine maintains **structured speaker state models** including:
+
+- **Speaker identity tracking**
+- **Contribution frequency analysis**
+- **Influence weighting metrics**
+- **Role-based reasoning adjustment**
+
+This allows the system to:
+
+- Detect **dominance imbalance**
+- Identify conversational skew
+- Monitor epistemic fairness in real time
+
+The AI understands **who is shaping the decision**, not just what is being said.
+
+---
+
+## 🔄 Dynamic Context Window Management
+
+To reduce hallucination and topic drift, the system implements:
+
+- **Rolling structured summaries**
+- Compression of discussion into **argument graph nodes**
+- Anchoring to **verified session context**
+- **Uncertainty tagging when confidence decreases**
+
+This ensures:
+
+- Grounded reasoning
+- Controlled speculation
+- Transparent confidence signaling
+
+The engine prioritizes **structural fidelity over generative verbosity.**
+
+---
+
+## ⚡ Interruptible Insight Generation
 
 When high-risk bias patterns or logical inconsistencies are detected, the engine can:
 
-- Surface contextual alerts mid-discussion
-- Provide counterfactual scenarios
-- Prompt structured reconsideration
+- **Surface contextual alerts mid-discussion**
+- Generate **counterfactual scenarios**
+- Prompt **structured reconsideration**
+- Inject probabilistic framing before premature consensus
 
-This transforms the agent from passive listener into active cognitive collaborator.
-
----
-
-## Latency & Performance
-
-- Average inference latency: 1.1–1.8 seconds  
-- Streaming stability: 99%+ session continuity  
-- Concurrent session tested capacity: 50+  
-
-The system is optimized for sub-2 second real-time responsiveness to preserve conversational flow.
+This transforms the system from a passive assistant into an **active cognitive collaborator.**
 
 ---
 
-The Live Intelligence Engine is not a wrapper around a model.
+## 🚀 Latency & Performance
 
-It is a structured streaming reasoning system designed to augment collective cognition in motion.
+- **Average inference latency:** 1.1–1.8 seconds  
+- **Streaming stability:** 99%+ session continuity  
+- **Concurrent session capacity tested:** 50+  
+
+The architecture is optimized for **sub-2 second responsiveness**, preserving natural conversational flow.
 
 ---
 
-# Cognitive Bias Detection Framework
+### 🔥 Core Insight
 
-CollectiveMind Live integrates a structured Cognitive Bias Detection Framework designed to identify distortions in real-time group reasoning.
+The Live Intelligence Engine is **not a wrapper around a language model.**
 
-Rather than relying on sentiment alone, the system analyzes conversational structure, speaker dynamics, and argument diversity.
+It is a **structured streaming reasoning system engineered to augment collective cognition in motion.**
 
-## Bias Dimensions Monitored
+---
 
-### 1. Dominance Imbalance
-- Speaker time distribution tracking  
+# 🧩 Cognitive Bias Detection Framework
+
+CollectiveMind Live integrates a **structured Cognitive Bias Detection Framework** designed to identify distortions in real-time group reasoning.
+
+Unlike systems that rely only on sentiment analysis, this framework evaluates:
+
+- **Conversational structure**
+- **Speaker dynamics**
+- **Argument diversity**
+- **Reasoning trajectories**
+
+---
+
+## 📊 Bias Dimensions Monitored
+
+### 1️⃣ Dominance Imbalance
+
+- **Speaker time distribution tracking**
 - Interruption frequency analysis  
 - Influence weighting by conversational persistence  
 
@@ -340,16 +386,18 @@ Flags when participation deviates significantly from equitable thresholds.
 
 ---
 
-### 2. Confirmation Bias Signals
-- Repetition of aligned arguments without counterweight  
-- Selective reinforcement of pre-existing assumptions  
-- Lack of opposing evidence introduction  
+### 2️⃣ Confirmation Bias Signals
 
-The system measures argument polarity clustering to detect epistemic narrowing.
+- Repetition of aligned arguments without counterweight  
+- Reinforcement of pre-existing assumptions  
+- Absence of opposing evidence introduction  
+
+Measures **argument polarity clustering** to detect epistemic narrowing.
 
 ---
 
-### 3. Emotional Escalation Detection
+### 3️⃣ Emotional Escalation Detection
+
 - Real-time tone and polarity tracking  
 - Emotional intensity shifts across speakers  
 - Escalation trend identification  
@@ -358,653 +406,818 @@ Triggers alerts when emotional amplitude begins to override structured reasoning
 
 ---
 
-### 4. Counterargument Diversity Index
+### 4️⃣ Counterargument Diversity Index
+
 - Unique perspective count  
 - Argument node expansion rate  
 - Presence of alternative hypothesis branches  
 
-Low diversity signals premature convergence.
+Low diversity signals **premature convergence risk.**
 
 ---
 
-### 5. Premature Consensus Risk
+### 5️⃣ Premature Consensus Risk
+
 - Rapid convergence without structured evaluation  
 - Absence of probabilistic reasoning  
 - Dominance-weighted agreement patterns  
 
-Indicates high-risk decision environments.
+Identifies **high-risk decision environments before commitment.**
 
 ---
 
-## Output Signals
+## 📈 Output Signals
 
 The framework produces:
 
-- Real-time bias alerts  
-- Participation heatmaps  
-- Bias Severity Index (0–100 scale)  
+- **Real-time bias alerts**
+- **Participation heatmaps**
+- **Bias Severity Index (0–100 scale)**
 - Structured explanation for each flag  
 - Recommended intervention prompts  
 
-This transforms invisible cognitive distortions into measurable decision signals.
+This converts **invisible cognitive distortions into measurable decision signals.**
 
 ---
 
-# Foresight Simulation Engine
+# 🔮 Foresight Simulation Engine
 
-The Foresight Simulation Engine converts conversational decisions into structured future modeling before commitment.
+The **Foresight Simulation Engine** transforms conversational decisions into structured future modeling before commitment.
 
-It operates through a five-stage pipeline:
+It operates through a **five-stage pipeline:**
 
-## 1. Decision Extraction
+---
+
+## 1️⃣ Decision Extraction
 
 - Identifies proposed action statements  
 - Parses intent, scope, and timeframe  
-- Isolates core decision variable  
+- Isolates the **core decision variable**
 
 ---
 
-## 2. Assumption Decomposition
+## 2️⃣ Assumption Decomposition
 
 - Extracts implicit assumptions  
 - Identifies dependency variables  
 - Surfaces hidden risk drivers  
 
----
-
-## 3. Scenario Branch Generation
-
-Using Gemini Live multimodal reasoning, the engine generates structured alternative futures:
-
-- Optimistic trajectory  
-- Conservative trajectory  
-- High-risk disruption scenario  
-- Status quo continuation  
-
-Each scenario is built as a causal chain rather than a summary.
+Reveals **what must be true** for the decision to succeed.
 
 ---
 
-## 4. Risk & Impact Modeling
+## 3️⃣ Scenario Branch Generation
+
+Using multimodal reasoning, the engine generates structured alternative futures:
+
+- **Optimistic trajectory**
+- **Conservative trajectory**
+- **High-risk disruption scenario**
+- **Status quo continuation**
+
+Each scenario is built as a **causal chain**, not a narrative summary.
+
+---
+
+## 4️⃣ Risk & Impact Modeling
 
 - Evaluates downstream consequences  
 - Tags probability bands (Low / Medium / High)  
 - Identifies second-order effects  
 
-Focuses on structural implications rather than narrative speculation.
+Focuses on **structural implications rather than speculative storytelling.**
 
 ---
 
-## 5. Probabilistic Framing Output
+## 5️⃣ Probabilistic Framing Output
 
 Final outputs include:
 
-- Scenario comparison matrix  
+- **Scenario comparison matrix**
 - Risk-weighted summary  
-- Confidence band indicators  
+- **Confidence band indicators**
 - Highlighted assumption sensitivities  
 
 ---
 
-This shifts decision-making from opinion-based agreement to structured foresight modeling.
+### 🧠 Strategic Shift
 
-CollectiveMind Live does not predict the future.
+This engine shifts decision-making from:
 
-It exposes the consequences of reasoning paths before they solidify.
+> Opinion-based agreement  
+
+to  
+
+> **Structured probabilistic foresight modeling**
+
+CollectiveMind Live does **not predict the future.**
+
+It exposes the **consequences of reasoning paths before they solidify.**
+
+---
+# ⚙️ Technical Design Deep Dive
+
+CollectiveMind Live is engineered as a **cloud-native, event-driven, streaming intelligence system** optimized for **low-latency multimodal inference**.
+
+The architecture prioritizes:
+
+- **Scalability**
+- **Fault tolerance**
+- **Real-time responsiveness**
+- **Structured reasoning over raw generation**
 
 ---
 
-# Technical Design Deep Dive
+## 🏗 Core Architectural Principles
 
-CollectiveMind Live is engineered as a cloud-native, event-driven, streaming intelligence system optimized for low-latency multimodal inference.
+### 1️⃣ Event-Driven Processing
 
-The architecture prioritizes scalability, fault tolerance, and real-time responsiveness.
+The backend operates on **asynchronous event streams**, not synchronous blocking requests.
 
----
+Incoming components are handled as discrete non-blocking events:
 
-## Core Architectural Principles
-
-### 1. Event-Driven Processing
-
-The backend operates on asynchronous event streams rather than synchronous blocking requests.  
-
-Incoming audio packets, reasoning outputs, bias signals, and simulation triggers are handled as discrete events in a non-blocking pipeline, enabling:
-
-- Concurrent multi-session processing  
-- Reduced latency under load  
-- Horizontal scalability  
-
----
-
-### 2. Stateless Compute Layer
-
-Backend services are containerized and deployed on Cloud Run using a stateless execution model.
-
-Session-specific state is externalized to Firestore, enabling:
-
-- Automatic scaling without session loss  
-- Rapid instance spin-up  
-- Fault-tolerant restart behavior  
-
-This ensures no single container becomes a bottleneck.
-
----
-
-### 3. Streaming Inference Integration
-
-Gemini Live API is integrated using streaming inference rather than batch invocation.
+- Audio packets  
+- Streaming reasoning outputs  
+- Bias detection signals  
+- Foresight simulation triggers  
 
 This enables:
 
-- Incremental reasoning updates  
-- Mid-discussion intervention capability  
+- **Concurrent multi-session processing**
+- **Reduced latency under load**
+- **Horizontal scalability without bottlenecks**
+
+The system reacts to cognitive signals in real time — not after pipeline completion.
+
+---
+
+### 2️⃣ Stateless Compute Layer
+
+Backend services are containerized and deployed on **Cloud Run** using a **stateless execution model**.
+
+Session state is externalized to **Cloud Firestore**, enabling:
+
+- **Automatic scaling without session loss**
+- Rapid instance spin-up  
+- Fault-tolerant restart behavior  
+- No single-container dependency  
+
+This ensures compute nodes remain disposable and horizontally scalable.
+
+---
+
+### 3️⃣ Streaming Inference Integration
+
+Gemini Live API is integrated using **streaming inference**, not batch invocation.
+
+This enables:
+
+- **Incremental reasoning updates**
+- **Mid-discussion intervention**
 - Continuous context adaptation  
 - Reduced perceived latency  
 
-The system maintains rolling context compression to prevent token overflow and hallucination drift.
+The system maintains:
+
+- Rolling structured summaries  
+- Context compression pipelines  
+- Token management safeguards  
+
+This prevents hallucination drift and token overflow while preserving reasoning continuity.
 
 ---
 
-### 4. Structured Reasoning Layer
+### 4️⃣ Structured Reasoning Layer
 
-A dedicated Decision Intelligence Engine processes model outputs into:
+A dedicated **Decision Intelligence Engine** transforms model outputs into structured intelligence:
 
-- Argument graphs  
-- Bias metrics  
-- Influence weighting  
+- Dynamic **argument graphs**
+- Quantified **bias metrics**
+- Speaker **influence weighting**
 - Simulation trigger states  
 
-This separation ensures model output is transformed into structured intelligence rather than raw text.
+This ensures the system outputs:
+
+> Structured decision models — not unfiltered generative text.
+
+Model reasoning is converted into **machine-interpretable decision signals.**
 
 ---
 
-### 5. Reliability & Resilience Engineering
+### 5️⃣ Reliability & Resilience Engineering
 
-To ensure production-grade stability:
+To ensure production-grade robustness:
 
-- Timeout thresholds guard against inference stalls  
-- Automatic retry logic handles transient API failures  
-- Circuit breaker patterns prevent cascading failure  
+- **Timeout thresholds** guard against inference stalls  
+- Automatic **retry logic** handles transient API failures  
+- **Circuit breaker patterns** prevent cascading failures  
 - Session state checkpointing enables recovery  
 - Graceful degradation mode activates if streaming fails  
 
-System observability includes:
+### Observability & Monitoring
+
+The system includes:
 
 - Structured logging  
-- Error classification  
-- Latency tracking  
+- Error classification pipelines  
+- Latency tracking dashboards  
 - Session health metrics  
 
----
-
-# Google Cloud Architecture
-
-CollectiveMind Live is fully deployed on Google Cloud and leverages managed services to ensure reliability, scalability, and security.
+This enables operational transparency and rapid debugging.
 
 ---
 
-## Cloud Services Utilized
+# ☁️ Google Cloud Architecture
 
-### Cloud Run
+CollectiveMind Live is fully deployed on **Google Cloud** as a first-class cloud-native AI system.
+
+It leverages managed services for:
+
+- Scalability  
+- Security  
+- Observability  
+- Low-latency global deployment  
+
+---
+
+## 🔹 Cloud Services Utilized
+
+### **Cloud Run**
 - Containerized backend deployment  
 - Automatic horizontal scaling  
 - Pay-per-use compute model  
-- Concurrency management  
+- Built-in concurrency management  
 
-### Vertex AI (Gemini Live API)
+---
+
+### **Vertex AI (Gemini Live API)**
 - Real-time multimodal inference  
 - Streaming reasoning capability  
 - Managed model hosting  
 - Secure API integration  
 
-### Cloud Firestore
+---
+
+### **Cloud Firestore**
 - Distributed NoSQL storage  
 - Real-time synchronization  
 - Session memory persistence  
 - Argument graph storage  
 
-### Cloud IAM
+---
+
+### **Cloud IAM**
 - Role-based access control  
 - Principle of least privilege enforcement  
-- Service account authentication  
-
-### Cloud Logging & Monitoring
-- Real-time observability  
-- Performance analytics  
-- Error tracking  
-- Debugging pipeline  
+- Secure service account authentication  
 
 ---
 
-## Deployment Model
+### **Cloud Logging & Monitoring**
+- Real-time observability  
+- Performance analytics  
+- Error tracking  
+- Debugging pipeline visibility  
+
+---
+
+## 🚀 Deployment Model
 
 The backend is deployed via containerized services on Cloud Run with:
 
 - Environment-based configuration  
-- IAM-secured service communication  
+- IAM-secured service-to-service communication  
 - Encrypted API calls to Vertex AI  
 - Managed scaling rules  
 
-Deployment proof is included in submission materials, demonstrating live service execution within the Google Cloud Console.
+Deployment proof is included in submission materials, demonstrating:
+
+- Live service execution  
+- Cloud Console deployment visibility  
+- Active service metrics  
+
+CollectiveMind Live is **not hosted on generic infrastructure.**
+
+It is architected as a **cloud-native AI intelligence system inside Google Cloud.**
 
 ---
 
-CollectiveMind Live is not hosted on generic infrastructure.
+# 📊 Performance Characteristics
 
-It is architected as a first-class cloud-native AI system within the Google Cloud ecosystem.
+CollectiveMind Live is optimized for **real-time multimodal collaboration at scale.**
 
----
-
-# Performance Characteristics
-
-CollectiveMind Live is optimized for real-time multimodal collaboration at scale.
-
-All metrics below were recorded during controlled load testing using concurrent WebRTC sessions deployed on Google Cloud.
+All metrics were recorded during controlled load testing with concurrent WebRTC sessions deployed on Google Cloud.
 
 ---
 
-## Latency & Responsiveness
+## ⚡ Latency & Responsiveness
 
 | Metric | Measured Value | Notes |
 |--------|----------------|------|
-| Avg Gemini Streaming Start | 1.3s | From speech input to first streamed token |
-| Avg Insight Interruption Latency | 1.6s | From bias trigger to audible response |
-| End-to-End Round Trip | 1.8–2.2s | Includes inference + dashboard update |
-| Cloud Run Cold Start | < 900ms | Container warm-up time |
-| Firestore Sync Latency | ~120ms | Real-time update propagation |
+| Avg Gemini Streaming Start | **1.3s** | Speech input to first streamed token |
+| Avg Insight Interruption Latency | **1.6s** | Bias trigger to audible response |
+| End-to-End Round Trip | **1.8–2.2s** | Inference + dashboard update |
+| Cloud Run Cold Start | **< 900ms** | Container warm-up time |
+| Firestore Sync Latency | **~120ms** | Real-time propagation |
 
-Streaming inference reduces perceived latency through incremental output rather than full-response waits.
+Streaming inference reduces perceived delay by **incremental token streaming**, not full-response blocking.
 
 ---
 
-## Load & Scalability Testing
+## 📈 Load & Scalability Testing
 
 | Metric | Result |
 |--------|--------|
-| Max Concurrent Sessions Tested | 50 |
+| Max Concurrent Sessions Tested | **50+** |
 | Horizontal Scaling | Automatic via Cloud Run |
-| Avg CPU Utilization @ 50 Sessions | 62% |
-| Streaming Stability | 99.1% session continuity |
-| Error Recovery Rate | 100% retry success for transient failures |
+| Avg CPU Utilization @ 50 Sessions | **62%** |
+| Streaming Stability | **99.1% session continuity** |
+| Error Recovery Rate | **100% retry success (transient failures)** |
 
-The system is stateless at the compute layer, allowing horizontal scaling without session conflict.
-
----
-
-## Model Reliability Metrics
-
-Bias Detection Evaluation:
-- Internal synthetic dataset: 82% detection precision
-- Dominance imbalance detection: 91% accuracy
-- False positive bias flag rate: < 9%
-
-Simulation Output Characteristics:
-- Probabilistic labeling instead of deterministic claims
-- Explicit uncertainty bands
-- Structured scenario branching (conservative, neutral, optimistic, risk-heavy)
-
-The system prioritizes calibrated reasoning over confident hallucination.
+Because compute is stateless, scaling does not introduce session conflict.
 
 ---
 
-# Responsible AI & Governance
+## 🧠 Model Reliability Metrics
 
-CollectiveMind Live is designed in alignment with responsible AI principles.
+### Bias Detection Evaluation
+- Internal synthetic dataset precision: **82%**
+- Dominance imbalance detection accuracy: **91%**
+- False positive bias rate: **< 9%**
 
-It is not a decision-maker.
-It is a structured reasoning assistant.
+### Simulation Output Characteristics
+- **Probabilistic labeling**, not deterministic claims  
+- Explicit uncertainty bands  
+- Structured scenario branching (optimistic / conservative / neutral / risk-heavy)
 
----
+The system prioritizes:
 
-## Grounding & Hallucination Mitigation
-
-- Context window compression prevents drift
-- All simulations explicitly state assumptions
-- No fabricated citations or synthetic references
-- Explicit uncertainty tagging in foresight outputs
-- No external web scraping or hidden data retrieval
-
----
-
-## Transparency & User Agency
-
-- Real-time explanation of why bias was flagged
-- Clear reasoning chain visualization in dashboard
-- User-controlled interruption permissions
-- Opt-in recording only
-- Full session deletion capability
-
-Users retain authority over final decisions.
+> Calibrated reasoning over confident hallucination.
 
 ---
 
-## Data Governance
+# 🛡 Responsible AI & Governance
 
-- No persistent raw audio storage
-- Structured transcript only (ephemeral unless saved)
-- Session-level isolation in Firestore
-- Automatic session expiry policy
-- No cross-session memory reuse
+CollectiveMind Live is aligned with responsible AI principles.
 
-This ensures privacy by architectural design, not policy promises.
+It is **not a decision-maker.**  
+It is a **structured reasoning assistant.**
 
 ---
 
-# Security Model
+## 🔎 Grounding & Hallucination Mitigation
 
-Security is implemented using a zero-trust cloud-native model.
+- Context window compression prevents drift  
+- All simulations explicitly state assumptions  
+- No fabricated citations  
+- Explicit uncertainty tagging  
+- No external web scraping  
 
----
-
-## Identity & Access
-
-- Service account authentication between services
-- Principle of least privilege via IAM
-- Scoped API permissions
-- No client-side model credentials
+Outputs are grounded strictly in session context.
 
 ---
 
-## Data Protection
+## 👤 Transparency & User Agency
 
-- TLS encryption in transit
-- Encrypted Firestore storage at rest
-- Environment-based secret management
-- No hard-coded keys in repository
+- Real-time explanation for every bias flag  
+- Visible reasoning chain in dashboard  
+- User-controlled interruption permissions  
+- Opt-in recording only  
+- Full session deletion capability  
 
----
-
-## Infrastructure Security
-
-- Stateless containers reduce attack surface
-- Isolated session contexts
-- Audit logs enabled via Cloud Logging
-- Deployment via controlled CI pipeline
+Users retain final authority.
 
 ---
 
-CollectiveMind Live is built as a secure, scalable, responsible AI system ready for enterprise-grade environments.
+## 🔐 Data Governance
+
+- **No persistent raw audio storage**
+- Structured transcript is ephemeral unless saved  
+- Session-level isolation in Firestore  
+- Automatic session expiry policy  
+- No cross-session memory reuse  
+
+Privacy is enforced **architecturally**, not just contractually.
 
 ---
 
-# Scalability Engineering
+CollectiveMind Live combines:
 
-CollectiveMind Live is architected as a horizontally scalable, event-driven intelligence layer.
+- **Cloud-native scalability**
+- **Streaming multimodal reasoning**
+- **Structured bias detection**
+- **Probabilistic foresight modeling**
+- **Responsible AI design**
 
-The system is designed to operate across thousands of concurrent meetings without shared-state bottlenecks.
-
----
-
-## Cloud-Native Compute Model
-
-- Fully containerized backend (Docker)
-- Deployed on Google Cloud Run
-- Automatic horizontal scaling based on request concurrency
-- Stateless compute nodes to eliminate session coupling
-- Independent WebRTC stream handling per session
-
-Each meeting is isolated at the compute layer, allowing parallel inference workloads without cross-session interference.
+It is engineered as a **real-time cognitive infrastructure layer for human decision-making.**
 
 ---
 
-## Data Layer Architecture
+# 🔐 Security Model
 
-- Firestore distributed document storage
-- Session-scoped collections
-- Real-time synchronization for dashboards
-- No persistent raw audio storage
-- Structured transcript indexing for fast retrieval
+Security is implemented using a **zero-trust, cloud-native architecture** designed for enterprise-grade environments.
 
-Firestore's multi-region replication model enables enterprise-scale reliability and low-latency reads.
+CollectiveMind Live assumes **no implicit trust between services, users, or infrastructure layers.**
 
 ---
 
-## Streaming & Throughput Design
+## 🔑 Identity & Access Control
 
-- Incremental streaming inference via Gemini Live API
-- Backpressure handling for audio ingestion
-- Graceful retry logic for transient API failures
-- Adaptive context window compression to control token growth
+Security begins with strict identity enforcement:
 
-This prevents degradation as conversations extend beyond typical model limits.
+- **Service account authentication** between backend services  
+- **Principle of Least Privilege (IAM-based role restriction)**  
+- Scoped API permissions for Vertex AI access  
+- **No client-side exposure of model credentials**  
+- Isolated session-based access boundaries  
+
+Every service-to-service interaction is authenticated and authorization-scoped.
 
 ---
 
-## Enterprise-Scale Projection
+## 🛡 Data Protection
+
+All data is protected both **in transit and at rest**:
+
+- **TLS encryption** for all network communication  
+- Encrypted Firestore storage at rest  
+- Environment-based secret management  
+- No hard-coded credentials in repository  
+- Secure service-to-service token exchange  
+
+Sensitive configuration values are injected via environment variables — never committed to source control.
+
+---
+
+## 🏗 Infrastructure Security
+
+The infrastructure layer is designed to reduce attack surface:
+
+- **Stateless containers** minimize persistence risk  
+- Session-level isolation prevents cross-session data leakage  
+- Audit logs enabled through Cloud Logging  
+- Controlled CI/CD deployment pipeline  
+- IAM-scoped deployment permissions  
+
+Security is enforced architecturally, not reactively.
+
+---
+
+CollectiveMind Live is built as a:
+
+- **Secure**
+- **Scalable**
+- **Responsible AI system**
+
+ready for enterprise-grade deployment.
+
+---
+
+# 📈 Scalability Engineering
+
+CollectiveMind Live is architected as a **horizontally scalable, event-driven intelligence layer**.
+
+It is designed to support **thousands of concurrent meetings** without shared-state bottlenecks.
+
+---
+
+## ☁️ Cloud-Native Compute Model
+
+The compute layer is built for elasticity:
+
+- Fully containerized backend (Docker)  
+- Deployed on **Google Cloud Run**  
+- Automatic horizontal scaling based on concurrency  
+- Stateless compute nodes (no session coupling)  
+- Independent WebRTC stream handling per session  
+
+Each meeting operates in isolation at the compute layer.
+
+This enables:
+
+- Parallel inference workloads  
+- Zero cross-session interference  
+- Elastic expansion under load  
+
+---
+
+## 🗄 Data Layer Architecture
+
+Persistence is handled by **Cloud Firestore** with session-scoped design:
+
+- Distributed document storage  
+- Session-level collections  
+- Real-time dashboard synchronization  
+- No persistent raw audio storage  
+- Structured transcript indexing  
+
+Firestore’s distributed architecture supports:
+
+- Multi-region resilience  
+- Low-latency reads  
+- High write throughput  
+
+---
+
+## 🔄 Streaming & Throughput Design
+
+To maintain performance during extended discussions:
+
+- Incremental streaming inference via Gemini Live API  
+- Backpressure handling for audio ingestion  
+- Graceful retry logic for transient API failures  
+- Adaptive context window compression  
+
+This prevents:
+
+- Token explosion  
+- Latency degradation  
+- Context drift  
+
+Streaming-first design ensures consistent performance even during prolonged sessions.
+
+---
+
+## 🚀 Enterprise-Scale Projection
 
 Projected scaling characteristics:
 
-- 1–5K concurrent meetings → horizontal auto-scale
-- Elastic compute expansion without downtime
-- Cost proportional to active session count
-- No pre-provisioned idle infrastructure
+- **1,000–5,000 concurrent meetings** → Horizontal auto-scale  
+- Elastic compute expansion without downtime  
+- Cost proportional to active session count  
+- No pre-provisioned idle infrastructure  
 
-The architecture is built to evolve from hackathon prototype → enterprise SaaS platform without redesign.
+The system can evolve from hackathon prototype → enterprise SaaS without architectural redesign.
 
 ---
 
-# Judging Criteria Alignment
+# 🏆 Judging Criteria Alignment
 
-This project was intentionally engineered around the evaluation pillars.
+This project was intentionally engineered around the official evaluation pillars.
 
 | Criteria | Deep Implementation Alignment |
-|----------|-------------------------------|
-| Innovation & UX (40%) | First real-time multi-speaker cognitive infrastructure that interrupts intelligently, not passively summarizes |
-| Technical Architecture (30%) | WebRTC streaming + Gemini Live multimodal reasoning + stateless Cloud Run + distributed Firestore |
-| Demo & Presentation (30%) | Live bias detection, dominance heatmaps, and multi-scenario foresight simulation demonstrated in real time |
+|----------|------------------------------|
+| **Innovation & UX (40%)** | First real-time multi-speaker cognitive infrastructure that **interrupts intelligently**, not passively summarizes |
+| **Technical Architecture (30%)** | WebRTC streaming + Gemini Live multimodal reasoning + stateless Cloud Run + distributed Firestore |
+| **Demo & Presentation (30%)** | Live bias detection, dominance heatmaps, and multi-scenario foresight simulation demonstrated in real time |
 
-Rather than building a feature demo, we built a deployable system.
+We did not build a feature demo.
 
-Each scoring pillar is reflected in both architecture and product behavior.
-
----
-
-# Competitive Moat
-
-CollectiveMind Live occupies a category that does not yet formally exist:
-
-**Real-Time Collective Intelligence Infrastructure**
+We built a **deployable, scalable system** aligned with every scoring dimension.
 
 ---
 
-## Compared to Meeting Transcription Tools
-(e.g., Otter-style systems)
+# 🧠 Competitive Moat
+
+CollectiveMind Live defines a new category:
+
+## **Real-Time Collective Intelligence Infrastructure**
+
+---
+
+## 📋 Compared to Meeting Transcription Tools
 
 They:
-- Convert speech → text
-- Provide summaries
+- Convert speech → text  
+- Provide summaries  
 
 We:
-- Analyze cognitive structure
-- Detect bias dynamics
-- Simulate long-term consequences
+- Analyze **cognitive structure**  
+- Detect **bias dynamics**  
+- Simulate **long-term consequences**  
 
 We reason. We do not transcribe.
 
 ---
 
-## Compared to AI Chatbots
+## 💬 Compared to AI Chatbots
 
 They:
-- Operate turn-by-turn
-- React to prompts
-- Serve individuals
+- Operate turn-by-turn  
+- React to prompts  
+- Serve individuals  
 
 We:
-- Process simultaneous multi-speaker input
-- Track group dynamics
-- Intervene contextually
-- Simulate strategic futures
+- Process **simultaneous multi-speaker input**  
+- Track group power dynamics  
+- Intervene contextually  
+- Simulate strategic futures  
 
-We act as a live cognitive moderator.
+We act as a **live cognitive moderator.**
 
 ---
 
-## Compared to Static Decision Dashboards
+## 📊 Compared to Static Decision Dashboards
 
 They:
-- Visualize historical metrics
-- Require manual data input
+- Visualize historical metrics  
+- Require manual input  
 
 We:
-- Extract decisions from live conversation
-- Identify assumptions automatically
-- Generate probabilistic foresight scenarios in real time
+- Extract decisions from live discussion  
+- Identify hidden assumptions  
+- Generate **probabilistic foresight scenarios in real time**  
 
-We transform unstructured discussion into structured intelligence.
+We transform unstructured debate into structured intelligence.
 
 ---
 
-## Structural Defensibility
+## 🏗 Structural Defensibility
 
 Our moat is built on:
 
-- Live multimodal streaming integration
-- Cognitive bias detection framework
-- Structured argument graph modeling
-- Real-time foresight simulation engine
-- Cloud-native scaling architecture
+- Live multimodal streaming integration  
+- Structured cognitive bias detection framework  
+- Dynamic argument graph modeling  
+- Real-time foresight simulation engine  
+- Cloud-native scaling architecture  
 
 This is not a wrapper around an API.
-It is an orchestration layer.
 
----
+It is a full orchestration layer.
 
-We are not competing within an existing category.
+We are not competing inside an existing category.
 
 We are defining one.
 
-CollectiveMind Live is a new interaction layer between humans and decisions.
+---
+
+# 🌍 Real-World Impact Domains
+
+CollectiveMind Live is a **decision intelligence layer** built for high-stakes environments.
+
+It is designed for rooms where flawed reasoning has measurable consequences.
 
 ---
 
-# Real-World Impact Domains
+## 🏢 1. Corporate Boardrooms
 
-CollectiveMind Live is not a meeting assistant.
-
-It is a decision intelligence layer designed for high-stakes environments where poor group reasoning has measurable consequences.
-
----
-
-## 1. Corporate Boardrooms
-
-- M&A decision evaluation
-- Capital allocation debates
-- Strategic pivot discussions
-- Risk exposure assessment
+Use Cases:
+- M&A decision evaluation  
+- Capital allocation debates  
+- Strategic pivot discussions  
+- Risk exposure assessment  
 
 Impact:
-Reduces dominance bias, surfaces unchallenged assumptions, and introduces scenario-based foresight before irreversible commitments.
+- Reduces dominance bias  
+- Surfaces unchallenged assumptions  
+- Introduces structured scenario foresight  
 
 ---
 
-## 2. Government & Public Policy
+## 🏛 2. Government & Public Policy
 
-- Legislative committee reviews
-- Crisis policy deliberation
-- Budget prioritization debates
-- Regulatory impact discussions
+Use Cases:
+- Legislative committee reviews  
+- Crisis policy deliberation  
+- Budget prioritization debates  
+- Regulatory impact discussions  
 
 Impact:
-Encourages structured argument diversity and probabilistic forecasting in environments where decisions affect millions.
+- Encourages argument diversity  
+- Introduces probabilistic forecasting  
+- Reduces premature consensus  
 
 ---
 
-## 3. Crisis Response Coordination
+## 🚨 3. Crisis Response Coordination
 
-- Disaster management war rooms
-- Healthcare emergency coordination
-- Cybersecurity breach response
-- Defense command discussions
+Use Cases:
+- Disaster management war rooms  
+- Healthcare emergency coordination  
+- Cybersecurity breach response  
+- Defense command discussions  
 
 Impact:
-Prevents emotional escalation and premature convergence during time-sensitive operations.
+- Prevents emotional escalation  
+- Flags premature convergence  
+- Maintains structured reasoning under pressure  
 
 ---
 
-## 4. Startup & Venture Strategy
+## 🚀 4. Startup & Venture Strategy
 
-- Product roadmap prioritization
-- Market entry decisions
-- Funding allocation debates
-- Founder conflict resolution
+Use Cases:
+- Product roadmap prioritization  
+- Market entry decisions  
+- Funding allocation debates  
+- Founder conflict resolution  
 
 Impact:
-Balances visionary optimism with structured downside simulation.
+- Balances optimism with downside simulation  
+- Surfaces assumption risk  
+- Strengthens strategic clarity  
 
 ---
 
-## 5. Investment Committees
+## 💰 5. Investment Committees
 
-- Portfolio rebalancing
-- Risk concentration debates
-- Scenario-based downside modeling
+Use Cases:
+- Portfolio rebalancing  
+- Risk concentration debates  
+- Downside scenario modeling  
 
 Impact:
-Transforms subjective conviction into structured probabilistic reasoning.
+- Converts conviction into structured probabilistic reasoning  
+- Encourages counterfactual thinking  
 
 ---
 
-## 6. Education & Academic Debate
+## 🎓 6. Education & Academic Debate
 
-- Structured debate training
-- Policy simulation classrooms
-- Leadership training programs
+Use Cases:
+- Structured debate training  
+- Policy simulation classrooms  
+- Leadership development programs  
 
 Impact:
-Teaches critical thinking through real-time feedback on cognitive bias patterns.
+- Teaches critical thinking  
+- Provides real-time bias feedback  
+- Reinforces structured argumentation  
 
 ---
 
-CollectiveMind Live is built for rooms where decisions change trajectories.
+CollectiveMind Live is built for environments where:
+
+- Decisions shape trajectories  
+- Bias carries measurable cost  
+- Intelligence must operate in real time  
+
+It is not a meeting assistant.
+
+It is **live collective cognition infrastructure.**
 
 ---
 
-# Research Foundations
+# 🧠 Research Foundations
 
-The system is grounded in established interdisciplinary research:
+CollectiveMind Live is grounded in **interdisciplinary cognitive science, behavioral economics, and human-computer interaction research**.
 
----
+This is not prompt engineering.
 
-## Collective Intelligence Theory
-
-Research by:
-- Anita Woolley (collective intelligence factor “c”)
-- MIT Center for Collective Intelligence
-
-Core insight:
-Group intelligence is not equal to the average IQ of participants — it is influenced by participation balance and social sensitivity.
-
-Our dominance heatmap and speaker balance engine operationalize this research.
+It is **applied cognitive science integrated into a live AI system.**
 
 ---
 
-## Cognitive Bias Research
+## 🔬 Collective Intelligence Theory
 
-Foundational work:
-- Daniel Kahneman
-- Amos Tversky
-- Behavioral economics and decision theory
+Research Foundations:
+- **Anita Woolley** (collective intelligence factor “c”)
+- **MIT Center for Collective Intelligence**
 
-We translate abstract bias theory into measurable real-time signals:
-- Confirmation bias indicators
+Core Insight:
+
+> Group intelligence is not the average IQ of participants.  
+> It is strongly influenced by **participation balance, social sensitivity, and conversational equality.**
+
+How We Operationalize It:
+
+- **Dominance heatmap modeling**
+- Speaker time distribution tracking
+- Influence weighting metrics
+- Participation imbalance alerts
+
+We convert academic theory into **real-time measurable intelligence signals.**
+
+---
+
+## 🧩 Cognitive Bias Research
+
+Foundational Work:
+- **Daniel Kahneman**
+- **Amos Tversky**
+- Behavioral economics & decision theory research
+
+We translate abstract bias theory into structured, real-time detection signals:
+
+- **Confirmation bias indicators**
 - Availability heuristic triggers
 - Overconfidence markers
 - Emotional polarity escalation
+- Selective evidence clustering
+
+Bias becomes **quantified and visible** — not theoretical.
 
 ---
 
-## Group Decision Theory
+## 👥 Group Decision Theory
 
+Frameworks Referenced:
 - Premature convergence models
 - Information cascade theory
-- Groupthink frameworks (Irving Janis)
+- **Groupthink model (Irving Janis)**
 
-Our system flags structural signals of groupthink before consensus locks in.
+Implementation:
+
+- Premature consensus detection
+- Counterargument diversity indexing
+- Assumption fragility modeling
+
+The system flags **structural signals of groupthink before consensus locks in.**
 
 ---
 
-## Human-Computer Interaction (HCI)
+## 🖥 Human-Computer Interaction (HCI)
 
 Inspired by adaptive systems research:
 
@@ -1012,156 +1225,183 @@ Inspired by adaptive systems research:
 - Interruptibility modeling
 - Human-AI collaboration design
 
-The system interrupts only when confidence thresholds exceed calibrated levels to avoid cognitive overload.
+Critical Design Principle:
+
+> The system interrupts only when calibrated confidence thresholds are exceeded.
+
+This prevents cognitive overload while maintaining proactive collaboration.
 
 ---
 
-## Argumentation Mapping Frameworks
+## 🗺 Argumentation Mapping Frameworks
 
+Foundations:
 - Toulmin Model of Argumentation
-- Structured debate graphs
-- Decision tree modeling
+- Structured debate graph systems
+- Decision tree modeling frameworks
 
-We convert conversational chaos into structured reasoning graphs.
+We convert conversational chaos into:
+
+- Structured argument graphs
+- Causal chains
+- Assumption trees
+- Probabilistic outcome branches
+
+This is **reasoning infrastructure**, not text generation.
 
 ---
 
-This is not prompt engineering.
-
-It is applied cognitive science integrated into live AI systems.
-
----
-
-# What Makes This a True Live Agent
+# 🤖 What Makes This a True Live Agent
 
 Most AI systems are reactive tools.
 
-CollectiveMind Live qualifies as a true live agent because it exhibits:
+CollectiveMind Live qualifies as a **true live agent** because it exhibits continuous, autonomous cognitive behavior.
 
 ---
 
-## 1. Interruptibility
+## 1️⃣ Interruptibility
 
 The system can interject during live conversation when:
-- Bias severity crosses threshold
-- Critical assumption lacks counterargument
-- Risk exposure exceeds defined tolerance
 
-This moves from passive response → proactive collaboration.
+- **Bias severity exceeds threshold**
+- A critical assumption lacks counterargument
+- Risk exposure surpasses tolerance band
+
+This transforms the agent from passive responder → **proactive cognitive collaborator.**
 
 ---
 
-## 2. Continuous Context Awareness
+## 2️⃣ Continuous Context Awareness
+
+The system:
 
 - Maintains rolling structured memory
-- Tracks speaker roles over time
+- Tracks speaker roles across time
 - Detects topic drift
-- Updates decision graph dynamically
+- Updates decision graphs dynamically
 
 It does not wait for prompts.
-It monitors continuously.
+
+It **monitors continuously.**
 
 ---
 
-## 3. Multimodal Processing
+## 3️⃣ Multimodal Processing
+
+Integrated intelligence loop includes:
 
 - Live audio ingestion
-- Semantic text parsing
+- Semantic reasoning
 - Emotional polarity inference
 - Participation heatmap visualization
 
-Speech, structure, and sentiment are fused in one reasoning loop.
+Speech, structure, sentiment, and influence are fused into **one real-time reasoning engine.**
 
 ---
 
-## 4. Multi-Speaker Intelligence
+## 4️⃣ Multi-Speaker Intelligence
 
-Unlike single-user assistants:
+Unlike single-user assistants, this system:
 
 - Identifies individual speaker contributions
 - Detects dominance imbalance
-- Encourages balanced participation
+- Encourages participation equity
 - Maps disagreement topology
 
-This is group-level AI cognition.
+This is **group-level cognition modeling.**
 
 ---
 
-## 5. Real-Time Structured Reasoning
+## 5️⃣ Real-Time Structured Reasoning
+
+The agent:
 
 - Extracts decisions as they emerge
-- Identifies assumptions automatically
-- Simulates multiple future scenarios
+- Identifies hidden assumptions automatically
+- Simulates multiple future trajectories
 - Assigns probabilistic risk bands
 
-It converts unstructured discussion into structured foresight.
+It converts unstructured dialogue into **structured foresight.**
 
 ---
 
-## 6. Non-Turn-Based Architecture
+## 6️⃣ Non-Turn-Based Architecture
+
+It is:
 
 - Not prompt → response
 - Not transcription → summary
-- Not post-meeting analysis
+- Not post-meeting analytics
 
-It is a live reasoning layer operating inside the conversation.
+It is a **live reasoning layer operating inside the conversation.**
 
 ---
 
 CollectiveMind Live is not an assistant.
 
-It is live cognition augmentation for collective intelligence.
+It is **live cognition augmentation for collective intelligence.**
 
 ---
 
-# Future Expansion
+# 🚀 Future Expansion
 
-CollectiveMind Live is designed as a foundational cognitive infrastructure — not a single-feature application.
+CollectiveMind Live is designed as foundational cognitive infrastructure.
 
-Our roadmap scales across intelligence layers, geographies, and enterprise ecosystems.
+Not a feature.
+Not a plugin.
+Not a one-off hackathon demo.
+
+A scalable intelligence layer.
 
 ---
 
-## 1. Cross-Language Real-Time Deliberation
+## 🌍 1. Cross-Language Real-Time Deliberation
+
+Planned Capabilities:
 
 - Live multilingual speech recognition
 - Instant semantic translation
 - Cross-cultural bias normalization
-- Global team cognitive synchronization
+- Global team synchronization
 
 Goal:
-Enable borderless, structured intelligence across international decision rooms.
+
+Enable **borderless structured intelligence** across international decision rooms.
 
 ---
 
-## 2. Enterprise Intelligence Dashboard
+## 📊 2. Enterprise Intelligence Dashboard
+
+Future capabilities:
 
 - Organization-wide decision quality analytics
-- Historical bias trend reports
+- Historical bias trend reporting
 - Meeting effectiveness scoring
 - Strategic alignment tracking
 
-Executives will not only see outcomes —
-they will see how decisions were formed.
+Executives will see:
+
+Not just outcomes —
+but **how decisions were formed.**
 
 ---
 
-## 3. Decision Intelligence API
+## 🔌 3. Decision Intelligence API
 
-We will expose a programmable API layer enabling:
+We will expose a programmable infrastructure layer enabling:
 
 - Integration into Zoom, Meet, Teams
-- Embedding in board governance software
-- Use inside defense and crisis command systems
-- Integration into enterprise SaaS tools
+- Embedding in governance software
+- Use in defense & crisis systems
+- Integration into enterprise SaaS platforms
 
-CollectiveMind becomes infrastructure, not an app.
+CollectiveMind becomes **infrastructure — not an app.**
 
 ---
 
-## 4. Meeting Risk Scoring Index™
+## 📈 4. Meeting Risk Scoring Index™
 
-A proprietary scoring framework that evaluates:
+A proprietary framework evaluating:
 
 - Bias severity
 - Argument diversity
@@ -1169,28 +1409,31 @@ A proprietary scoring framework that evaluates:
 - Assumption fragility
 - Forecast risk exposure
 
-This creates a standardized benchmark for decision quality.
+This creates a standardized benchmark for **decision quality.**
 
 ---
 
-## 5. Governance & Compliance Analytics Layer
+## 🏛 5. Governance & Compliance Analytics Layer
 
-- Audit trails for strategic decisions
+Enterprise modules for:
+
+- Decision audit trails
 - Policy debate traceability
-- AI-generated reasoning transparency logs
-- Regulatory-ready reporting modules
+- AI-generated transparency logs
+- Regulatory-ready reporting systems
 
-This transforms CollectiveMind from a productivity tool
-into institutional accountability infrastructure.
+This transforms CollectiveMind into:
+
+**Institutional accountability infrastructure.**
 
 ---
 
-## 6. Long-Term Vision: Global Decision Intelligence Network
+## 🌐 6. Long-Term Vision: Global Decision Intelligence Network
 
-Over time, anonymized, opt-in meta-patterns could help:
+With anonymized, opt-in meta-pattern modeling, the system could:
 
 - Identify systemic reasoning failures
-- Model macro-level decision bias trends
+- Model macro-level bias trends
 - Improve institutional decision design worldwide
 
 The future is not smarter individuals.
@@ -1199,34 +1442,34 @@ It is smarter systems of collective reasoning.
 
 ---
 
-# Closing Statement
+# 🏁 Closing Statement
 
 CollectiveMind Live is not a chatbot.
 
-It is not a transcription tool.
+It is not a transcription tool.  
 It is not a meeting assistant.
 
-It is a real-time cognitive infrastructure layer for human decision-making.
+It is a **real-time cognitive infrastructure layer for human decision-making.**
 
-In boardrooms.
-In crisis rooms.
-In policy chambers.
-In startup war rooms.
+In boardrooms.  
+In crisis rooms.  
+In policy chambers.  
+In startup war rooms.  
 
-Wherever decisions shape the future —
+Wherever decisions shape the future —  
 CollectiveMind augments the intelligence behind them.
 
-In a world overwhelmed by opinions,
-we built a system that generates structured foresight.
+In a world overwhelmed by opinions,  
+we built a system that generates **structured foresight.**
 
-Powered by Gemini Live.  
-Deployed on Google Cloud.  
-Engineered for real-time collaboration.  
+Powered by **Gemini Live.**  
+Deployed on **Google Cloud.**  
+Engineered for **real-time collaboration.**  
 
-Designed for the next evolution of human collective intelligence.
+Designed for the next evolution of **human collective intelligence.**
 
 This is not an application.
 
-This is the beginning of decision intelligence as infrastructure.
+This is the beginning of **decision intelligence as infrastructure.**
 
 ---
