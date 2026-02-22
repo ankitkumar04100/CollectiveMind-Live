@@ -119,7 +119,7 @@ In environments where decisions evolve second-by-second, **reactive AI is insuff
 
 ---
 
-# 🚀 Our Breakthrough
+# Our Breakthrough
 
 **CollectiveMind Live introduces a new interaction paradigm: _real-time cognitive augmentation for groups._**
 
@@ -155,7 +155,7 @@ This is **live collective cognition infrastructure deployed on Google Cloud.**
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 **CollectiveMind Live is built as a cloud-native, event-driven, real-time streaming architecture designed for low-latency multimodal reasoning.**
 
@@ -244,7 +244,7 @@ Designed for **real-time sync and distributed scalability.**
 
 ---
 
-## 🧠 Architectural Principles
+## Architectural Principles
 
 - **Stateless compute with persistent session memory**
 - **Horizontal scalability via Cloud Run**
@@ -266,7 +266,7 @@ It is built as a **real-time cognitive operating system for group decision-makin
 
 ---
 
-# 🧠 Live Intelligence Engine
+# Live Intelligence Engine
 
 At the core of **CollectiveMind Live** is a **streaming-first reasoning architecture built on Gemini Live API.**
 
@@ -359,7 +359,7 @@ It is a **structured streaming reasoning system engineered to augment collective
 
 ---
 
-# 🧩 Cognitive Bias Detection Framework
+# Cognitive Bias Detection Framework
 
 CollectiveMind Live integrates a **structured Cognitive Bias Detection Framework** designed to identify distortions in real-time group reasoning.
 
@@ -438,7 +438,7 @@ This converts **invisible cognitive distortions into measurable decision signals
 
 ---
 
-# 🔮 Foresight Simulation Engine
+# Foresight Simulation Engine
 
 The **Foresight Simulation Engine** transforms conversational decisions into structured future modeling before commitment.
 
@@ -513,7 +513,7 @@ CollectiveMind Live does **not predict the future.**
 It exposes the **consequences of reasoning paths before they solidify.**
 
 ---
-# ⚙️ Technical Design Deep Dive
+# Technical Design Deep Dive
 
 CollectiveMind Live is engineered as a **cloud-native, event-driven, streaming intelligence system** optimized for **low-latency multimodal inference**.
 
@@ -625,7 +625,7 @@ This enables operational transparency and rapid debugging.
 
 ---
 
-# ☁️ Google Cloud Architecture
+# Google Cloud Architecture
 
 CollectiveMind Live is fully deployed on **Google Cloud** as a first-class cloud-native AI system.
 
@@ -700,7 +700,7 @@ It is architected as a **cloud-native AI intelligence system inside Google Cloud
 
 ---
 
-# 📊 Performance Characteristics
+# Performance Characteristics
 
 CollectiveMind Live is optimized for **real-time multimodal collaboration at scale.**
 
@@ -754,7 +754,7 @@ The system prioritizes:
 
 ---
 
-# 🛡 Responsible AI & Governance
+# Responsible AI & Governance
 
 CollectiveMind Live is aligned with responsible AI principles.
 
@@ -811,7 +811,7 @@ It is engineered as a **real-time cognitive infrastructure layer for human decis
 
 ---
 
-# 🔐 Security Model
+# Security Model
 
 Security is implemented using a **zero-trust, cloud-native architecture** designed for enterprise-grade environments.
 
@@ -871,7 +871,7 @@ ready for enterprise-grade deployment.
 
 ---
 
-# 📈 Scalability Engineering
+# Scalability Engineering
 
 CollectiveMind Live is architected as a **horizontally scalable, event-driven intelligence layer**.
 
@@ -949,7 +949,7 @@ The system can evolve from hackathon prototype → enterprise SaaS without archi
 
 ---
 
-# 🏆 Judging Criteria Alignment
+# Judging Criteria Alignment
 
 This project was intentionally engineered around the official evaluation pillars.
 
@@ -965,7 +965,7 @@ We built a **deployable, scalable system** aligned with every scoring dimension.
 
 ---
 
-# 🧠 Competitive Moat
+# Competitive Moat
 
 CollectiveMind Live defines a new category:
 
@@ -1040,7 +1040,7 @@ We are defining one.
 
 ---
 
-# 🌍 Real-World Impact Domains
+# Real-World Impact Domains
 
 CollectiveMind Live is a **decision intelligence layer** built for high-stakes environments.
 
@@ -1147,7 +1147,7 @@ It is **live collective cognition infrastructure.**
 
 ---
 
-# 🧠 Research Foundations
+# Research Foundations
 
 CollectiveMind Live is grounded in **interdisciplinary cognitive science, behavioral economics, and human-computer interaction research**.
 
@@ -1249,7 +1249,7 @@ This is **reasoning infrastructure**, not text generation.
 
 ---
 
-# 🤖 What Makes This a True Live Agent
+# What Makes This a True Live Agent
 
 Most AI systems are reactive tools.
 
@@ -1341,7 +1341,7 @@ It is **live cognition augmentation for collective intelligence.**
 
 ---
 
-# 🚀 Future Expansion
+# Future Expansion
 
 CollectiveMind Live is designed as foundational cognitive infrastructure.
 
@@ -1440,7 +1440,7 @@ It is smarter systems of collective reasoning.
 
 ---
 
-# 🏁 Closing Statement
+# Closing Statement
 
 CollectiveMind Live is not a chatbot.
 
